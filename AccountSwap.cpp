@@ -1,7 +1,7 @@
 /*
 Author: Max Edward
 Email : maxedwar@uat.edu
-Assignment Name : Code Breaker Training Simulation - Keywords II
+Assignment Name : Hacking Bank Accounts Using References
 */
 
 // Include libraries & header files
